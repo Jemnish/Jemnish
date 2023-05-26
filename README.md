@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/5d/c3/cc/5dc3ccae47d20dedb229267b811ff239.gif)]
+![MasterHead](https://i.pinimg.com/originals/5d/c3/cc/5dc3ccae47d20dedb229267b811ff239.gif)
 <h1 align="center">Hi 👋, I'm Jenish Budhathoki</h1>
 <h3 align="center">I am currently studying for a BSc in Computing, with a passion for web development and the goal of becoming a full-stack developer.</h3>
 
