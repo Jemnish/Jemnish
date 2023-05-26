@@ -1,4 +1,4 @@
-[![MasterHead] ![chrome offline game cast](assets/screenshot.gif)](http://wayou.github.io/t-rex-runner/)
+
 <h1 align="center">Hi 👋, I'm Jenish Budhathoki</h1>
 <h3 align="center">I am currently studying for a BSc in Computing, with a passion for web development and the goal of becoming a full-stack developer.</h3>
 
