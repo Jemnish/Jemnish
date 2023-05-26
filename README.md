@@ -1,5 +1,4 @@
-![MasterHead](https://giphy.com/embed/3ogwFGEHrVxusDbDjO)
-<h1 align="center">Hi 👋, I'm Jenish Budhathoki</h1>
+<h1 align="center">Hi 👋, I'm Jenish Budhathoki :)</h1>
 <h3 align="center">I am currently studying for a BSc in Computing, with a passion for web development and the goal of becoming a full-stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jemnish&label=Profile%20views&color=0e75b6&style=flat" alt="jemnish" /> </p>
