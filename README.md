@@ -1,4 +1,4 @@
-[![MasterHead](<img align="right" alt="Coding" width="400" src="<iframe src="https://i.pinimg.com/564x/0c/3d/de/0c3dde69580c9a2610b49684e630fafa.jpg">)](https://github.com/Jemnish)
+[![MasterHead](<img align="right" alt="Coding" width="400" src="<iframe src="https://i.pinimg.com/564x/0c/3d/de/0c3dde69580c9a2610b49684e630fafa.jpg">)]
 <h1 align="center">Hi 👋, I'm Jenish Budhathoki</h1>
 <h3 align="center">I am currently studying for a BSc in Computing, with a passion for web development and the goal of becoming a full-stack developer.</h3>
 
