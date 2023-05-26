@@ -1,4 +1,4 @@
-[![MasterHead](<iframe src="https://giphy.com/embed/3ogwFGEHrVxusDbDjO" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/spongebob-spongebob-squarepants-episode-15-3ogwFGEHrVxusDbDjO">via GIPHY</a></p>)]
+[![MasterHead](https://i.pinimg.com/originals/5d/c3/cc/5dc3ccae47d20dedb229267b811ff239.gif)]
 <h1 align="center">Hi 👋, I'm Jenish Budhathoki</h1>
 <h3 align="center">I am currently studying for a BSc in Computing, with a passion for web development and the goal of becoming a full-stack developer.</h3>
 
