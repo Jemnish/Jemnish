@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/jemnish206" target="blank"><img src="https://img.shields.io/twitter/follow/jemnish206?logo=twitter&style=for-the-badge" alt="jemnish206" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [jenishbudhathoki.com.np](jenishbudhathoki.com.np)
+- 👨‍💻 All of my projects are available at (jenishbudhathoki.com.np)
 
 - 💬 Ask me about **Web dev**
 
