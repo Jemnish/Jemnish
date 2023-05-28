@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jemnish&label=Profile%20views&color=0e75b6&style=flat" alt="jemnish" /> </p>
 
 
-- 👨‍💻 All of my projects are available at ([jenishbudhathoki.com.np](https://jenishbudhathoki.com.np/))
+- 👨‍💻 All of my projects are available at [jenishbudhathoki.com.np](https://jenishbudhathoki.com.np/)
 
 - 💬 Ask me about **Web dev**
 
