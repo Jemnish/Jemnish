@@ -3,8 +3,6 @@
 <a href="https://www.linkedin.com/in/jenish206/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jemnish&label=Profile%20views&color=0e75b6&style=flat" alt="jemnish" /> </p>
-
 
 - 👨‍💻 All of my projects are available at [jenishbudhathoki.com.np](https://jenishbudhathoki.com.np/)
 
