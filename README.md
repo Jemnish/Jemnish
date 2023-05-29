@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jenish Budhathoki :)</h1>
 <h3 align="center">I am currently studying for a BSc in Computing, with a passion for web development and the goal of becoming a full-stack developer.</h3>
-
+<a href="https://www.linkedin.com/in/jenish206/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jemnish&label=Profile%20views&color=0e75b6&style=flat" alt="jemnish" /> </p>
 
 
@@ -17,7 +19,6 @@
 <a href="https://twitter.com/jemnish206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jemnish206" height="30" width="40" /></a>
 <a href="https://fb.com/jen ish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jen ish" height="30" width="40" /></a>
 <a href="https://instagram.com/jenish_budathoki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jenish_budathoki" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jenish206/" target="blank"><img align="center" src="http://www.w3.org/2000/svg" alt="jenish_budathoki" height="30" width="40" /></a>
 </p>
 
 
