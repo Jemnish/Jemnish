@@ -6,8 +6,6 @@
 
 - 👨‍💻 All of my projects are available at [jenishbudhathoki.com.np](https://jenishbudhathoki.com.np/)
 
-- 💬 Ask me about **Web dev**
-
 - 📫 How to reach me **budhathokijenish111@gmail.com**
 
 - ⚡ Fun fact **I am a fun person to be with.**
