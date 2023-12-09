@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jenish Budhathoki :)</h1>
-<h3 align="center">I am currently studying for a BSc in Computing, with a passion for web development and the goal of becoming a full-stack developer.</h3>
+<h3 align="center">J.</h3>
 <a href="https://www.linkedin.com/in/jenish206/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
